@@ -34,22 +34,22 @@ Python | TensorFlow / Keras | XGBoost | Scikit-Learn | Pandas | OpenAI API
 
 ## 🏗️ Featured Architecture
 
-### [MeetAI — Real-Time AI Meeting Platform](#) https://github.com/AbdelhadiBouchadi/meetai
+### [MeetAI — Real-Time AI Meeting Platform](https://github.com/AbdelhadiBouchadi/meetai) 
 An end-to-end typesafe application enabling low-latency live voice exchanges with customized AI agents. 
 * **Stack:** Next.js 15, tRPC, Drizzle ORM, Neon Postgres, OpenAI Realtime API, WebRTC.
 * **Highlight:** Utilized Inngest for asynchronous background jobs to handle heavy transcription and automated meeting summaries without blocking server threads.
 
-### [Ophta — Private Hospital Management System](#) https://github.com/AbdelhadiBouchadi/eyecaredalou
+### [Ophta — Private Hospital Management System](https://github.com/AbdelhadiBouchadi/eyecaredalou) 
 A secure, multi-tier Role-Based Access Control (RBAC) scheduling and patient management platform built for the ophthalmology department at Hospital Hassan II.
 * **Stack:** Next.js 14, MongoDB, Prisma, Next-Auth v5.
 * **Highlight:** Engineered a custom medical asset pipeline using UploadThing for doctors to securely attach and categorize high-resolution eye imagery to patient profiles.
 
-### [Full-Stack Wellness Booking Engine](#) https://github.com/AbdelhadiBouchadi/yoga-booking-app
+### [Full-Stack Wellness Booking Engine](https://github.com/AbdelhadiBouchadi/yoga-booking-app) 
 A comprehensive SaaS-level studio management platform featuring automated waitlists, CRON-style recurring lesson patterns, and dual-language (EN/FR) support.
 * **Stack:** Next.js 15, PostgreSQL, Drizzle, Arcjet, AWS S3.
 * **Highlight:** Designed a highly relational schema capable of handling overlapping schedules, strict cancellation windows, and transactional email pipelines via Resend.
 
-### [CICIDS2017 — Network Anomaly Detection Pipeline](#) https://github.com/AbdelhadiBouchadi/Anomaly_Detection_CICIDS
+### [CICIDS2017 — Network Anomaly Detection Pipeline](https://github.com/AbdelhadiBouchadi/Anomaly_Detection_CICIDS) 
 A machine learning engine designed to filter normal traffic from simulated cyberattacks. Evaluated at 99/100 by university faculty.
 * **Stack:** Python, TensorFlow, XGBoost, Scikit-Learn.
 * **Highlight:** Deployed strict L1/L2 regularized supervised classifiers alongside an unsupervised TensorFlow Autoencoder to identify zero-day anomalies based on reconstruction errors.
